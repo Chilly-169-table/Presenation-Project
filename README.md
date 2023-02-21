@@ -1,7 +1,7 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
-
+<h1 align="center">{Presenation-Website(Mini-Project)}</h1>
+<p> align="center>{src:Modern HTML,CSS by Brad Traversy}</p>
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
