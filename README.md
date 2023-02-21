@@ -1,8 +1,9 @@
 <!-- Please update value in the {}  -->
 
 <h1 align="center">{Presenation-Website(Mini-Project)}</h1>
-<p> align="center>{src:Modern HTML,CSS by Brad Traversy}</p>
+
 <div align="center">
+   <p> align="center>{src:Modern HTML,CSS by Brad Traversy}</p>
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
